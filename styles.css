@@ -4,11 +4,19 @@ p, h1 {
 }
 img {
   width: 100%;
-  height: auto;
+  max-width: 1000px;
+  max-height: 100%;
+}
+
+.icon {
+  width: 3em;
 }
 
 .contenedor {
-  width: 90%;
+  width: 95%;
+  margin: auto;
+  text-align: center;
+  vertical-align: middle;
   margin: auto;
 }
 
