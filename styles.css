@@ -9,7 +9,7 @@ img {
 }
 
 .icon {
-  width: 3em;
+  width: 1em;
 }
 
 .contenedor {
@@ -22,4 +22,16 @@ img {
 
 body {
   background-color: #fefefe;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  border-radius: 1em;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
