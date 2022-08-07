@@ -130,35 +130,43 @@ background-color:#ffffff;border-color:#dddddd;
 background-color:#ffffff;border-color:/*emBorderColor*/
 #dddddd;
 }
+.iDevice_header .toggle-idevice a{
+/*emIconColor*/
+background-image:url(_style_icons_black.png);
+}
 .iDeviceTitle{
-background-image:url(icon_star.png);
+background-image:url(icon_star_black.png);
 }
 .activityIdevice .iDeviceTitle{
-background-image:url(icon_assignment.png);
+background-image:url(icon_assignment_black.png);
 }
 .readingIdevice .iDeviceTitle{
-background-image:url(icon_unread.png);
+background-image:url(icon_unread_black.png);
 }
 .FileAttachIdeviceInc .iDeviceTitle{
-background-image:url(icon_download.png);
+background-image:url(icon_download_black.png);
 }
 .WikipediaIdevice .iDeviceTitle{
-background-image:url(icon_description.png);
+background-image:url(icon_description_black.png);
 }
 .ListaIdevice .iDeviceTitle,.QuizTestIdevice .iDeviceTitle,.MultichoiceIdevice .iDeviceTitle,.TrueFalseIdevice .iDeviceTitle,.MultiSelectIdevice .iDeviceTitle,.ClozeIdevice .iDeviceTitle{
-background-image:url(icon_question.png);
+background-image:url(icon_question_black.png);
 }
 .preknowledgeIdevice .iDeviceTitle{
-background-image:url(icon_announcement.png);
+background-image:url(icon_announcement_black.png);
 }
 .GalleryIdevice .iDeviceTitle{
-background-image:url(icon_media.png);
+background-image:url(icon_media_black.png);
 }
 .objectivesIdevice .iDeviceTitle{
-background-image:url(icon_info.png);
+background-image:url(icon_info_black.png);
 }
 .ReflectionIdevice .iDeviceTitle{
-background-image:url(icon_account.png);
+background-image:url(icon_account_black.png);
+}
+.toggle-em0 a{
+/*noEmIconColor*/
+background-image:url(_style_icons_black.png);
 }
 body{
 /*bodyColor*/
@@ -168,12 +176,12 @@ background-color:#f9f9f9;
 }
 a{
 /*aColor*/
-color:#2495ff;
+color:#00bf5f;
 }
 #header,#emptyHeader,#nodeDecoration{
 height:auto!important;
 /*headerHeight*/
-height:120px;min-height:120px;
+height:70px;min-height:70px;
 /*headerBGColor*/
 background-color:#ffffff;border:1px solid /*headerBorderColor*/
 #dddddd;
@@ -184,7 +192,7 @@ position:absolute!important;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px
 }
 #siteFooter{
 border:1px solid /*footerBorderColor*/
-#dddddd;
+#ffffff;
 /*footerBGColor*/
 background-color:#ffffff;
 }
