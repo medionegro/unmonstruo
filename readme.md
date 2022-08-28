@@ -1,26 +1,6 @@
-# monstruo blanco
+# Un Monstruo En Mi Barrio
 
-Registro de investigación para la revista-comic de FUERA PORTA
 
-<H2>RECURSOS:<H2>
-
-**Documental sobre Grant Morrison: **
-Online: https://www.youtube.com/watch?v=8ZcflWe6Fhc
-Subtítulos: https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-69214
-
-[Planta de Bioetanol enferma a todo un barrio en la ciudad de Córdoba | Red Universitaria de Ambiente y Salud – Medicos de pueblos fumigados](https://web.archive.org/web/20130825065233/http://www.reduas.fcm.unc.edu.ar/planta-de-bioetanol-enferma-a-todo-un-barrio-en-la-ciudad-de-cordoba/)
-[Estudios científicos Zona Sur de Córdoba](https://vudas.wordpress.com/category/estudios-cientificos/)
-[FUERA PORTA: UN NUEVO AÑO DE LUCHA – MEDIONEGRO](https://www.medionegro.org/fueraporta-un-nuevo-ano-de-lucha/)
-[Daniel Yorio, la cara de la UNC al servicio de los intereses de lxs de arriba – ANRed](https://www.anred.org/2017/09/27/daniel-yorio-la-cara-de-la-unc-al-servicio-de-los-intereses-de-lxs-de-arriba/)
-[CONICET_Digital_Nro.3e3ecc1f-37f6-4d97-999f-178032c374e0_A.pdf](https://ri.conicet.gov.ar/bitstream/handle/11336/106546/CONICET_Digital_Nro.3e3ecc1f-37f6-4d97-999f-178032c374e0_A.pdf?sequence=2&isAllowed=y)
-[Informe-DIFUSION-Pericia-aire-de-Bº-San-Antonio.pdf](https://reduas.com.ar/wp-content/uploads/downloads/2017/08/Informe-DIFUSION-Pericia-aire-de-B%C2%BA-San-Antonio.pdf)
-[CONICET_Digital_Nro.7176ff48-0ff9-4b61-983e-d4e01b52724e_BB.pdf](https://ri.conicet.gov.ar/bitstream/handle/11336/147269/CONICET_Digital_Nro.7176ff48-0ff9-4b61-983e-d4e01b52724e_BB.pdf?sequence=5&isAllowed=y)
-[141120-Dictamen-Tomasoni-1.pdf](https://reduas.com.ar/wp-content/uploads/downloads/2017/08/141120-Dictamen-Tomasoni-1.pdf)
-[Informe-DIFUSION-Pericia-aire-de-Bº-San-Antonio.pdf](https://reduas.com.ar/wp-content/uploads/downloads/2017/08/Informe-DIFUSION-Pericia-aire-de-B%C2%BA-San-Antonio.pdf)
-[Cartografias-del-conflicto-ambiental.pdf](https://www.clacso.org/wp-content/uploads/2020/06/Cartografias-del-conflicto-ambiental.pdf)
-[6988466.pdf](https://dialnet.unirioja.es/descarga/articulo/6988466.pdf)
-[MVI 8310 Inauguración - YouTube](https://www.youtube.com/watch?v=OSR7ij_eE3o)
-[Crudo VUDAS - Barrio - YouTube ](https://www.youtube.com/watch?v=PazbKlivX08&list=PLFs-SKx_Mf3W_cR4PMi9uGgiu2hoVhMVp)
 
 ## Getting started
 
@@ -35,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/marcuse99/monstruo-blanco.git
+git remote add origin https://gitlab.com/marcuse99/un-monstruo-en-mi-barrio.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/marcuse99/monstruo-blanco/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/marcuse99/un-monstruo-en-mi-barrio/-/settings/integrations)
 
 ## Collaborate with your team
 
@@ -66,7 +46,7 @@ Use the built-in continuous integration in GitLab.
 
 # Editing this README
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
 
 ## Suggestions for a good README
 Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
